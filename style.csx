@@ -1,22 +1,4 @@
-﻿Computer Science A
-2A
-Due Sep 18, 5:00 PM
-Project 3: Create Robotics Home Page
 
-Doug Benton
-Sep 12 (Edited Sep 12)
-Create a static web page to act as a the landing site for anyone interested in the Jerome Robotics Club. Use the Codebrainery.io page that you created in Project 2 as a template.
-
-Project3_CreateRoboticsHomepage
-Google Docs
-Your work
-Turned in late
-
-jaces index.html
-HTML
-
-style.css
-Style Sheet
 
 ﻿body {
   font-family: 'Roboto', sans-serif;
@@ -121,5 +103,3 @@ section.container .row {
   min-width: 32px;
   min-height: 33px;
 }
-style.css
-Displaying jaces index.html.
