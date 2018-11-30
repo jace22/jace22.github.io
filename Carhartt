@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="stylesheet" type="text/css"
+ href="main.css"/>
+
+  <!-- Add the title of your document below-->
+ <title>Carhartt_Website</title>
+ 
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="index.css">
+</head>
+<body>
+  <div class="container">
+	<div class="nav">
+  <!-- Add your code for your navigation bar below (remember a heading as well!)-->
+<h2> Carhartt</h2>
+ <li>sign up</li>
+ <li>Search Carhartt </li>
+ <li>Learn more about Carhartt</li>
+ <li> Click on the video to know about Carhartt!</li>
+	</div>
+  <div class="main">
+  <!-- Add your headings, paragraphs, images and videos in the space below in this main class-->
+ <font color="white"><h2> Things to know about Carhartt</h2></font>
+  <h3> Share what you know about Carhartt</h3>
+<p>MADE IN THE USA SINCE 1889
+In the midst of our current global economy, Carhartt has proven that affordable clothes can be made right here at home, and be successful
+Since 1997, more than 600 textile factories have closed in the U.S. Today, less than 2% of the apparel purchased in the U.S. is actually made in the U.S. Carhartt gear is part of that 2%, yet we often far exceed that number. Since 1998, Carhartt has made more than 80 million pieces of apparel in the U.S. Though we do manufacture some of our durable products offshore, we have never stopped making products in the U.S. since we started in 1889. Everything Carhartt makes is designed in Dearborn, Michigan, just a few miles from our original HQ.
+Carhartt employs more than 2,000 American workers, and more than 1,000 UFCW union members. Our “Made in the USA” line is built in four factories in Kentucky and Tennessee. In 2015, Carhartt purchased 19.5 million pounds of U.S. cotton from Mt. Vernon mills in Georgia—enough American cotton to cover more than 19,500 football fields. Crafting American-made products is an important part of Carhatt’s DNA, and important to the hardworking American towns where we build these products.
+</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgwx7rHruyuQ0E-AEydkfIVKOEGWgdnoRNB-uLgkvgPCgHbFUw5w"height= "200" width= "800"/>;
+
+
+   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=mFOp8JFZsb4" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+   <p> By giving Americans a choice to buy product actually made in America, Carhartt has ensured the survival of the American worker. No brand makes more rugged workwear in the U.S. than Carhartt – and we’re proud that we can dress a hardworking American, head-to-toe in the best workwear money can buy without charging a premium for manufacturing here. We exists to serve the worker, and without him or her, we wouldn’t be in business. Since 1889, we’ve never stopped making clothes in America. And we’ll never stop outworking them all. </p>
+	</div>
+		<p id="footer">&copy; Carhartt</p>
+  </div>
+</body>
+</html>
+ 
